@@ -1,0 +1,13 @@
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.exe
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.deps.json
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.runtimeconfig.json
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.runtimeconfig.dev.json
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\bin\Debug\netcoreapp3.1\DATATYPES.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.csprojAssemblyReference.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.AssemblyInfoInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.AssemblyInfo.cs
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.csproj.CoreCompileInputs.cache
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.dll
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.pdb
+C:\Users\M.I.S\Desktop\c# CLASSES\DATATYPES\obj\Debug\netcoreapp3.1\DATATYPES.genruntimeconfig.cache
